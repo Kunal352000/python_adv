@@ -1,0 +1,21 @@
+import random
+print(random.randrange(5))
+print(random.randrange(5))
+print(random.randrange(5))
+print(random.randrange(5))
+print(random.randrange(5))
+print(random.randrange(5))
+print(random.randrange(5))
+print(random.randrange(5))
+"""
+output
+-------
+0
+1
+2
+3
+2
+0
+2
+4
+"""

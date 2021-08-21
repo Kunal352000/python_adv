@@ -1,0 +1,19 @@
+import random
+print(random.randrange(1,4))
+print(random.randrange(1,4))
+print(random.randrange(1,4))
+print(random.randrange(1,4))
+print(random.randrange(1,4))
+print(random.randrange(1,4))
+print(random.randrange(1,4))
+"""
+output:
+-------
+1
+2
+3
+2
+1
+1
+2
+"""

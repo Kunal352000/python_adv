@@ -1,0 +1,23 @@
+import random
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+print(random.uniform(2,5))
+"""
+output:
+-------
+3.5945892291976866
+2.6066616794647355
+2.868942605191424
+2.4869032049165027
+2.517883777007631
+2.3618267901879726
+3.984504937445387
+4.756904979636774
+4.605580702896779
+"""

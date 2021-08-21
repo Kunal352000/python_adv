@@ -1,0 +1,21 @@
+import random
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+print(random.randrange(1,10,2))
+"""
+output:
+-------
+1
+1
+9
+7
+7
+1
+5
+5
+"""
